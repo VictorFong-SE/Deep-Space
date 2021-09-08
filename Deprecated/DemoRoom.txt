@@ -1,0 +1,14 @@
+Room:
+Demo
+
+Tiles:
+5,5
+
+Doors:
+2,4
+
+Loot:
+0,3
+
+StartingLocation:
+2,0
